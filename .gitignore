@@ -4,6 +4,9 @@
 # Ignore: Build artifacts, auto-generated files, logs, databases
 # -----------------------------------------------------------------------------
 
+# Vivado project files
+*.xpr
+
 # Vivado build directories
 *.runs/
 *.sim/
